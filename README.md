@@ -73,6 +73,7 @@ This job repository provides daily updates and tracks the latest  H1B sponsorshi
 | **[KPG99](https://www.kpg99.com/)** | Data Architect/Python/Pyspark Lead/ Big Data Architect |  Senior, Lead  | Palo Alto, CA | 🏅 | [apply](https://www.linkedin.com/jobs/view/data-architect-python-pyspark-lead-big-data-architect-at-kpg99-inc-3767019547) | 2023-11-16 |
 | **[Onsemi Intelligent Technology](http://www.onsemi.com)** | Characterization Yield Engineer |  Mid-Level  | Hopewell Junction, NY | 🥈 | [apply](https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/job/2500115/?src=JB-BB-10101&utm_medium=jobshare) | 2023-11-09 |
 | **[Alexion Pharmaceuticals](https://alexion.com)** | Associate Scientist II Drug Substance Process Development – Upstream |  mid-level  | New Haven, CT | 🏅 | [apply](https://astrazeneca.wd3.myworkdayjobs.com/Alexion/job/US---New-Haven---CT/Associate-Scientist-II-Drug-Substance-Process-Development---Upstream_R-183663/apply?source=Linkedin) | 2023-11-22 |
+| **[The Boeing Company](http://www.boeing.com)** | Electromagnetic Effects Design and Analysis Engineer (Level 2, 3 and 4) |  Mid-Level, Expert  | Houston, TX | 🏅 | [apply](https://ad.doubleclick.net/ddm/clk/517492914;325447798;a?https://jobs.boeing.com/job/-/-/185/57582723088?utm_campaign=ra-us&utm_medium=job_posting&utm_source=linkedin) | 2023-11-22 |
 </details>
 
 <details>
