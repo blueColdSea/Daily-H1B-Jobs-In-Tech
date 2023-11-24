@@ -72,6 +72,7 @@ This job repository provides daily updates and tracks the latest  H1B sponsorshi
 | **[Alexion Pharmaceuticals](https://alexion.com)** | Associate Scientist |  junior  | Cambridge, MA | 🏅 | [apply](https://astrazeneca.wd3.myworkdayjobs.com/Alexion/job/US---Cambridge---MA/Associate-Scientist_R-182314/apply?source=Linkedin) | 2023-11-17 |
 | **[KPG99](https://www.kpg99.com/)** | Data Architect/Python/Pyspark Lead/ Big Data Architect |  Senior, Lead  | Palo Alto, CA | 🏅 | [apply](https://www.linkedin.com/jobs/view/data-architect-python-pyspark-lead-big-data-architect-at-kpg99-inc-3767019547) | 2023-11-16 |
 | **[Onsemi Intelligent Technology](http://www.onsemi.com)** | Characterization Yield Engineer |  Mid-Level  | Hopewell Junction, NY | 🥈 | [apply](https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/job/2500115/?src=JB-BB-10101&utm_medium=jobshare) | 2023-11-09 |
+| **[Alexion Pharmaceuticals](https://alexion.com)** | Associate Scientist II Drug Substance Process Development – Upstream |  mid-level  | New Haven, CT | 🏅 | [apply](https://astrazeneca.wd3.myworkdayjobs.com/Alexion/job/US---New-Haven---CT/Associate-Scientist-II-Drug-Substance-Process-Development---Upstream_R-183663/apply?source=Linkedin) | 2023-11-22 |
 </details>
 
 <details>
