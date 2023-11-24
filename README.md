@@ -70,6 +70,7 @@ This job repository provides daily updates and tracks the latest  H1B sponsorshi
 | ↳ | Mechatronics Engineer |  senior  | Fremont, CA | 🥈 | [apply](https://grnh.se/43389f523us) | 2023-11-23 |
 | **[Meta](https://meta.com)** | Software Engineer, Computer Vision (Technical Leadership) |  Lead, Principal  | New York, NY | 🥈 | [apply](https://jsv3.recruitics.com/redirect?rx_cid=3239&rx_jobId=a1K2K000007p5UqUAI_1002&rx_url=https://www.metacareers.com/jobs/281209407905800/?rx_campaign=Linkedin1&rx_ch=connector&rx_group=126320&rx_job=a1K2K000007p5UqUAI_1002&rx_medium=post&rx_r=none&rx_source=Linkedin&rx_ts=20231123T004802Z&rx_vp=slots&utm_campaign=Job%2Bboard&utm_medium=jobs&utm_source=LIpaid) | 2023-11-23 |
 | **[Alexion Pharmaceuticals](https://alexion.com)** | Associate Scientist |  junior  | Cambridge, MA | 🏅 | [apply](https://astrazeneca.wd3.myworkdayjobs.com/Alexion/job/US---Cambridge---MA/Associate-Scientist_R-182314/apply?source=Linkedin) | 2023-11-17 |
+| **[KPG99](https://www.kpg99.com/)** | Data Architect/Python/Pyspark Lead/ Big Data Architect |  Senior, Lead  | Palo Alto, CA | 🏅 | [apply](https://www.linkedin.com/jobs/view/data-architect-python-pyspark-lead-big-data-architect-at-kpg99-inc-3767019547) | 2023-11-16 |
 </details>
 
 <details>
