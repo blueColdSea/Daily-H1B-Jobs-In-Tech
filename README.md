@@ -382,6 +382,7 @@ This job repository provides daily updates and tracks the latest  H1B sponsorshi
 | **[Atlassian](http://www.atlassian.com)** | Senior Product Marketing Manager, Analytics |  Senior  | REMOTE | 🥈 | [apply](https://careers-americas.icims.com/jobs/11514/senior-product-marketing-manager%252c-analytics/job?iis=LINKEDIN&iisn=LINKEDIN&trid=1e0b9127-2df6-4b3d-8bc4-d81ae332a601&mode=job) | 2023-11-08 |
 | ↳ | Senior Product Marketing Manager, Analytics |  Senior  | San Francisco, CA | 🥈 | [apply](https://careers-americas.icims.com/jobs/11514/senior-product-marketing-manager%2525252c-analytics/job?iis=LINKEDIN&iisn=LINKEDIN&trid=1e0b9127-2df6-4b3d-8bc4-d81ae332a601&mode=job) | 2023-11-08 |
 | **[Visa](https://www.visa.com)** | Worldwide Product Marketing MBA Intern - 2024 |  Intern  | Foster City, CA | 🥈 | [apply](https://jobs.smartrecruiters.com/Visa/743999943236513-worldwide-product-marketing-mba-intern-2024?source=LinkedIn) | 2023-11-08 |
+| **[PSI INTERNATIONAL, Inc.](http://psiint.com)** | Software Architect Expert |  Principal  | Albany, NY | 🏅 | [apply](https://www1.jobdiva.com/candidates/myjobs/openjob_outside.jsp?a=h7jdnwijn979f0ygsbjsky90koh12v009awkkvrr2j7nimqtwsacwl64fenlec5v&SearchString=&StatesString=&source=linkedin.com&id=25675414&compid=-1) | 2023-11-18 |
 </details>
 
 <details>
