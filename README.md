@@ -318,7 +318,7 @@ This job repository provides daily updates and tracks the latest  H1B sponsorshi
 
 <table style="width:1012px">
   <tr>
-    <th>Company</th>
+    <th style="width:200px">Company</th>
     <th>Job Title</th>
     <th>Level</th>
     <th>Location</th>
