@@ -53,7 +53,9 @@ This job repository provides daily updates and tracks the latest  H1B sponsorshi
 
 <details>
 <summary>Software Engineer</summary>
-
+<table style="width:500px">
+  <tr>
+    <td>
 | Company | Job Title |  Level  | Location | H1B status | Link | Date Posted |
 | ------- | --------- |  -----  | -------- | ---------- | ---- | ----------- |
 | **[Actalent](https://www.actalentservices.com)** | Software Engineer |  Senior  | Melbourne, FL | 🏅 | [apply](https://jsv3.recruitics.com/redirect?rx_cid=3374&rx_jobId=JP-004171114&rx_url=https://ars2.equest.com/?icid=linkedin_recruitics&response_id=b84f3ae4bf05bd1b8ba41f6f9a592f18&rx_campaign=Linkedin1&rx_ch=connector&rx_group=125337&rx_job=JP-004171114&rx_medium=post&rx_r=none&rx_source=Linkedin&rx_ts=20231123T004802Z&rx_vp=slots) | 2023-11-23 |
@@ -311,7 +313,9 @@ This job repository provides daily updates and tracks the latest  H1B sponsorshi
 | **[Arch MI](https://mortgage.archgroup.com/us)** | Software Engineer III (Remote, Eastern Time - Open to H1-b) |  senior  | REMOTE | 🏅 | [apply](https://archgroup.wd1.myworkdayjobs.com/Careers/job/Greensboro-NC-United-States-of-America/Software-Engineer-IV--Hybrid-_R23_1057?source=LinkedIn) | 2023-11-17 |
 | **[Pella Windows & Doors of Wisconsin](http://pellawi.com)** | Product Engineer I |  entry-level/junior  | Pella, IA | 🏅 | [apply](https://careers.pella.com/jobs/product-engineer-i-6607) | 2023-11-17 |
 | **[Canonical](http://www.canonical.com)** | Senior Support & Software Engineer, Saudi Arabia |  Senior  | REMOTE | 🏅 | [apply](https://grnh.se/c8d12b171us) | 2023-11-17 |
-
+    </td>
+  </tr>
+</table>
 </details>
 
 <details>
