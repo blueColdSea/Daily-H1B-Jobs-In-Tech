@@ -53,7 +53,7 @@ This job repository provides daily updates and tracks the latest  H1B sponsorshi
 
 <details>
 <summary>Software Engineer</summary>
-<table style="width:95%">
+<table style="width=95%">
 | Company | Job Title |  Level  | Location | H1B status | Link | Date Posted |
 | ------- | --------- |  -----  | -------- | ---------- | ---- | ----------- |
 | **[Actalent](https://www.actalentservices.com)** | Software Engineer |  Senior  | Melbourne, FL | 🏅 | [apply](https://jsv3.recruitics.com/redirect?rx_cid=3374&rx_jobId=JP-004171114&rx_url=https://ars2.equest.com/?icid=linkedin_recruitics&response_id=b84f3ae4bf05bd1b8ba41f6f9a592f18&rx_campaign=Linkedin1&rx_ch=connector&rx_group=125337&rx_job=JP-004171114&rx_medium=post&rx_r=none&rx_source=Linkedin&rx_ts=20231123T004802Z&rx_vp=slots) | 2023-11-23 |
