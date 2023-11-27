@@ -53,7 +53,7 @@ This job repository provides daily updates and tracks the latest  H1B sponsorshi
 
 <details>
 <summary>Software Engineer</summary>
-<table style="width:500px">
+<table style="width:830px">
   <tr>
     <td>
 | Company | Job Title |  Level  | Location | H1B status | Link | Date Posted |
@@ -320,7 +320,7 @@ This job repository provides daily updates and tracks the latest  H1B sponsorshi
 <details open>
 <summary>Software Engineer</summary>
 
-<table style="width:1200px">
+<table style="width:830px">
   <tr>
     <th>Company</th>
     <th>Job Title</th>
@@ -343,6 +343,7 @@ This job repository provides daily updates and tracks the latest  H1B sponsorshi
 </table>
 
 </details>
+
 <details>
 <summary>Marketing</summary>
 
