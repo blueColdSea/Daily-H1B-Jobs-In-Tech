@@ -317,7 +317,32 @@ This job repository provides daily updates and tracks the latest  H1B sponsorshi
   </tr>
 </table>
 </details>
+<details open>
+<summary>Software Engineer</summary>
 
+<table style="width:820px">
+  <tr>
+    <th>Company</th>
+    <th>Job Title</th>
+    <th>Level</th>
+    <th>Location</th>
+    <th>H1B status</th>
+    <th>Link</th>
+    <th>Date Posted</th>
+  </tr>
+  <tr>
+    <td>Company 1</td>
+    <td>Job Title 1</td>
+    <td>Level 1</td>
+    <td>Location 1</td>
+    <td>H1B status 1</td>
+    <td>Link 1</td>
+    <td>Date Posted 1</td>
+  </tr>
+  <!-- Add more rows as needed -->
+</table>
+
+</details>
 <details>
 <summary>Marketing</summary>
 
