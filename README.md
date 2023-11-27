@@ -320,7 +320,7 @@ This job repository provides daily updates and tracks the latest  H1B sponsorshi
 <details open>
 <summary>Software Engineer</summary>
 
-<table style="width:830px">
+<table style="width:1012px">
   <tr>
     <th>Company</th>
     <th>Job Title</th>
